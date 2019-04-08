@@ -1,0 +1,115 @@
+{
+  "id": 421177465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-36.71611,-54.15611,-36.71611,-54.15611",
+    "geom:latitude":-54.15611,
+    "geom:longitude":-36.71611,
+    "iso:country":"GS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ang_x_preferred":[
+        "Stromn\u00e6ss"
+    ],
+    "name:dut_x_preferred":[
+        "Stromness"
+    ],
+    "name:eng_x_preferred":[
+        "Stromness"
+    ],
+    "name:fre_x_preferred":[
+        "Stromness"
+    ],
+    "name:ger_x_preferred":[
+        "Stromness"
+    ],
+    "name:hun_x_preferred":[
+        "Stromness"
+    ],
+    "name:ita_x_preferred":[
+        "Stromness"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30c8\u30ed\u30e0\u30cd\u30b9"
+    ],
+    "name:nno_x_preferred":[
+        "Str\u00f8mnes"
+    ],
+    "name:nob_x_preferred":[
+        "Str\u00f8mnes"
+    ],
+    "name:por_x_preferred":[
+        "Stromness"
+    ],
+    "name:spa_x_preferred":[
+        "Stromness"
+    ],
+    "qs:gn_country":"GS",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3474113,
+    "qs:gn_pop":0,
+    "qs:name":"Stromness",
+    "qs:name_adm0":"South Georgia and the South Sandwich Islands",
+    "qs:name_adm1":null,
+    "qs:photos":518,
+    "qs:photos_1k":105,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":518,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":423389,
+    "qs:woe_adm0":23424955,
+    "qs:woe_id":379908,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        85632301,
+        85681367,
+        102193527,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3474113,
+        "gp:id":379908,
+        "qs:id":423389,
+        "wd:id":"Q279780",
+        "wk:page":"Stromness, South Georgia"
+    },
+    "wof:country":"GS",
+    "wof:created":1459009145,
+    "wof:geomhash":"f7ff9ec9b435218eb51a42f65c739339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":-1,
+            "dependency_id":85632301,
+            "empire_id":136253055,
+            "locality_id":421177465,
+            "region_id":85681367
+        }
+    ],
+    "wof:id":421177465,
+    "wof:lastmodified":1514444404,
+    "wof:name":"Stromness",
+    "wof:parent_id":85681367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -36.71611,
+    -54.15611,
+    -36.71611,
+    -54.15611
+],
+  "geometry": {"coordinates":[-36.71611,-54.15611],"type":"Point"}
+}
