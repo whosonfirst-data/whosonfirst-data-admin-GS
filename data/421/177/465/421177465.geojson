@@ -16,16 +16,13 @@
     "name:ang_x_preferred":[
         "Stromn\u00e6ss"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Stromness"
     ],
     "name:eng_x_preferred":[
         "Stromness"
     ],
-    "name:fre_x_preferred":[
-        "Stromness"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Stromness"
     ],
     "name:hun_x_preferred":[
@@ -36,6 +33,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b9\u30c8\u30ed\u30e0\u30cd\u30b9"
+    ],
+    "name:nld_x_preferred":[
+        "Stromness"
     ],
     "name:nno_x_preferred":[
         "Str\u00f8mnes"
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":421177465,
-    "wof:lastmodified":1514444404,
+    "wof:lastmodified":1561844158,
     "wof:name":"Stromness",
     "wof:parent_id":85681367,
     "wof:placetype":"locality",

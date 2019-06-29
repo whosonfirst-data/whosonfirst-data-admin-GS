@@ -71,6 +71,9 @@
     "name:ces_x_preferred":[
         "Ji\u017en\u00ed Georgie a Ji\u017en\u00ed Sandwichovy ostrovy"
     ],
+    "name:ces_x_variant":[
+        "Ji\u017en\u00ed Georgie a Ji\u017en\u00ed Sandwichovy Ostrovy"
+    ],
     "name:chv_x_preferred":[
         "\u041a\u0103\u043d\u0442\u0103\u0440 \u0421\u0435\u043d\u0434\u0432\u0438\u0447 \u0443\u0442\u0440\u0430\u0432\u0115\u0441\u0435\u043c"
     ],
@@ -79,9 +82,6 @@
     ],
     "name:cym_x_preferred":[
         "De Georgia ac Ynysoedd Sandwich y De"
-    ],
-    "name:cze_x_preferred":[
-        "Ji\u017en\u00ed Georgie a Ji\u017en\u00ed Sandwichovy Ostrovy"
     ],
     "name:dan_x_colloquial":[
         "Sydgeorgien og Sydsandwich Oerne"
@@ -305,7 +305,7 @@
     "name:ron_x_preferred":[
         "Georgia de Sud \u0219i Insulele Sandwich de Sud"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Georgia de Sud \u015ei Insulele Sandwich de Sud"
     ],
     "name:rum_x_variant":[
@@ -470,7 +470,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1536616806,
+    "wof:lastmodified":1561844158,
     "wof:name":"South Georgia and the South Sandwich Islands",
     "wof:parent_id":85632301,
     "wof:placetype":"region",
