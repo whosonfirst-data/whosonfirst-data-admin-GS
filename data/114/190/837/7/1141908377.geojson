@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-36.5079889339,-54.2805769667,-36.5079889339,-54.2805769667",
+    "geom:bbox":"-36.507989,-54.280577,-36.507989,-54.280577",
     "geom:latitude":-54.280577,
     "geom:longitude":-36.507989,
     "gn:country":"GS",
@@ -26,6 +26,9 @@
     ],
     "name:ang_x_preferred":[
         "Grytviken"
+    ],
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u064a\u062a\u0641\u064a\u0643\u0646"
     ],
     "name:aze_x_preferred":[
         "Qryotviken"
@@ -59,6 +62,9 @@
     ],
     "name:deu_x_preferred":[
         "Grytviken"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03c1\u03b9\u03c4\u03b2\u03ac\u03b9\u03ba\u03b5\u03bd"
     ],
     "name:eng_x_preferred":[
         "Grytviken"
@@ -210,6 +216,9 @@
     "name:tuk_x_preferred":[
         "Gr\u00fdutwiken"
     ],
+    "name:tur_x_preferred":[
+        "Grytviken"
+    ],
     "name:ukr_x_preferred":[
         "\u0413\u0440\u044e\u0442\u0432\u0456\u043a\u0435\u043d"
     ],
@@ -353,7 +362,7 @@
     },
     "wof:country":"GS",
     "wof:created":1499130889,
-    "wof:geomhash":"5e6f843965eb2b48c7511c9b5859fd65",
+    "wof:geomhash":"7e9aa6588a6bcb92fdae27add1c97994",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -365,7 +374,7 @@
         }
     ],
     "wof:id":1141908377,
-    "wof:lastmodified":1566642504,
+    "wof:lastmodified":1636503123,
     "wof:name":"Grytviken",
     "wof:parent_id":85681367,
     "wof:placetype":"locality",
@@ -379,10 +388,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -36.50798893385235,
-    -54.28057696667207,
-    -36.50798893385235,
-    -54.28057696667207
+    -36.507989,
+    -54.280577,
+    -36.507989,
+    -54.280577
 ],
-  "geometry": {"coordinates":[-36.50798893385235,-54.28057696667207],"type":"Point"}
+  "geometry": {"coordinates":[-36.507989,-54.280577],"type":"Point"}
 }
